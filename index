@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head> </head>
+<title> My Interests</title></head>
 <body>
-
+<h1> Hi! this website is going to show one of the many thing I am interested in. Enjoy!</h1>
+<img src="Norse.jpg" alt ="Norse">
 </body>
 </html>
